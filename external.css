@@ -26,6 +26,10 @@
 .logo img{
 	height:45px;
 }
+.nav-logo{
+	width:25%;
+	height:85%;
+}
 .navbar{
 	float: left;
 }
